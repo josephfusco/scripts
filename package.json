@@ -1,0 +1,17 @@
+{
+  "name": "@fusco/scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A collection of personal scripts",
+  "keywords": [],
+  "author": "Joseph Fusco",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "github-org-labels-to-csv": "./scripts/github-org-labels-to-csv.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  }
+}
