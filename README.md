@@ -1,4 +1,4 @@
-# @fusco/scripts
+# @josephfusco/scripts
 
 A collection of personal scripts.
 
